@@ -1,13 +1,12 @@
 import { useState } from 'react'
 import logo from './logo.svg'
 import './App.css'
-import Customers from "./pages/Customers"
 function App() {
   const [count, setCount] = useState(0)
 
   return (
     <div className="App">
-      <Customers/>
+      <h1>app</h1>
     </div>
   )
 }
