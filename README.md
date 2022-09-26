@@ -1,13 +1,32 @@
-# adorable-crown-8253
+# ✨Calendly-Clone
 
-## Calendly-Clone
 
 ### What is Calendly ?
 <p>Calendly is a software company that develops a business communication platform for teams to schedule, 
 prepare and follow up on external meetings. Thousands of teams across the globe use Calendly to make millions of 1-click meetings every week. 
 Coordinate, connect and nurture relationships all in one meeting lifecycle platform.</p>
 
-### For building this application we used Following Tech Stack:
+---
+
+# Team Members
+
+
+- **[Satish Ojha](https://github.com/satishkumarojha)**
+- **[Tushar Shelke](https://github.com/tushar07-dev)**
+- **[Swapnil Ramteke](https://github.com/swapnilpreet)**
+- **[Nikhil Mehra](https://github.com/NikhilMehara)**
+- **[Shubham Verma](https://github.com/S-hub1996)**
+
+---
+# ✨DEPLOYMENT LINK :
+
+
+### **[Calendary](https://calendly.com/)** : https://calendly.com/
+
+### **[Netlify Clone ](https://calendly-react-clone.netlify.app/)** : https://calendly-react-clone.netlify.app/
+---
+
+# For building this application we used Following Tech Stack:
 <ul>
 <li>Redux</li>
 <li>React</li>
@@ -18,7 +37,8 @@ Coordinate, connect and nurture relationships all in one meeting lifecycle platf
 <li>JavaScript</li>
 </ul>
 
-### Features
+
+# Features
 <ul>
 <li>User Sign-in/Sign-Up page </li>
 <li>Developed the Profile pages</li>
@@ -26,7 +46,8 @@ Coordinate, connect and nurture relationships all in one meeting lifecycle platf
 <li>Schedule Book Form</li>
 </ul>
 
-### Screenshot 
+
+# Screenshot 
 <ol>
 <li>Home page</li>
 
@@ -59,19 +80,12 @@ Coordinate, connect and nurture relationships all in one meeting lifecycle platf
 
 </ol>
 
-### Challenges
+
+# Challenges
 <ol>
 <li>As every journey has some challenges and so was ours. Being a Team Leader I break the project into small Chunks and decided to distribute it according to the capability of an individual.
 I list out some of the milestones in the project that will help us to learn something different.</li>
 <li>We faced some problems during merging the files but we figured it out very quickly and start following the basic steps of merging.</li>
 <li>We faced challenges with Chakra UI like absolute and relative. Some of the files got dull CSS so we changed some classes and tags and build an eye catching UI.</li>
 </ol>
-
-### Team Members
-<ul>
-<li>Satish Kumar Ohja (Team Leader)</li>
-<li>Shubham Verma</li>
-<li>Nikhil Mehra</li>
-<li>Tushar Shelke</li>
-<li>Swapnil Ramteke</li>
-</ul>
+---
